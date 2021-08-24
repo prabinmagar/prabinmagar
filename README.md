@@ -13,5 +13,5 @@ You can subscribe this channel if you find it helpful.
 
 <img src = "https://github-readme-stats.vercel.app/api?username=prabinmagar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabinmagar)](https://github.com/prabinmagar/github-readme-stats)
 
