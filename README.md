@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**prabinmagar/prabinmagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...HTML, CSS, JS & PHP
@@ -13,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...Youtube Channel: https://www.youtube.com/channel/UCcbrqMDyUZAD0zUnqbWjG0w/videos
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I Love Classic Novels
--->
