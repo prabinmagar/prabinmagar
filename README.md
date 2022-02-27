@@ -3,10 +3,10 @@ My Youtube Channel Link: https://www.youtube.com/channel/UCcbrqMDyUZAD0zUnqbWjG0
 You can subscribe this channel if you find it helpful.
 
 - 🔭 I’m currently working on ...HTML, CSS, JS & PHP
-- 🌱 I’m currently learning ...Laravel
+- 🌱 I’m currently learning ... Java Programming Language
 - 👯 I’m looking to collaborate on ...Frontend Devopment
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ... HTML, CSS, JS, Bootstrap & PHP
+- 💬 Ask me about ... HTML, CSS, JS, Bootstrap, SASS, PHP & LARAVEL
 - 📫 How to reach me: ...Youtube Channel: https://www.youtube.com/channel/UCcbrqMDyUZAD0zUnqbWjG0w/videos
 - 😄 Pronouns: ... HEHE
 - ⚡ Fun fact: ... I Love Classic Novels
