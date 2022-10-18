@@ -2,7 +2,7 @@
 My Youtube Channel Link: https://www.youtube.com/channel/UCcbrqMDyUZAD0zUnqbWjG0w/videos
 You can subscribe this channel if you find it helpful.
 
-- 🔭 I’m currently working on ...HTML, CSS, JS & PHP
+- 🔭 I’m currently working on ...HTML, CSS, JavaScript, jQuery, Tailwind, Bootstrap, Sass & PHP
 - 🌱 I’m currently learning ... Java Programming Language
 - 👯 I’m looking to collaborate on ...Frontend Devopment
 - 🤔 I’m looking for help with ...
