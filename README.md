@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Prabin. I make Youtube videos on Frontend Web Develpment. 
+### Hi there 👋 I'm Prabin. I make Youtube videos on Frontend Web Development. 
 My Youtube Channel Link: https://www.youtube.com/channel/UCcbrqMDyUZAD0zUnqbWjG0w/videos
 You can subscribe this channel if you find it helpful.
 
